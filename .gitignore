@@ -96,7 +96,6 @@ instance/
 *.env.*
 .env.local
 
-data/
-*.csv
+# DVC
 /data
 /artifacts
