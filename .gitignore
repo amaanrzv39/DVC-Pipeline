@@ -99,3 +99,4 @@ instance/
 data/
 *.csv
 /data
+/artifacts
