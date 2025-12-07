@@ -97,3 +97,4 @@ instance/
 .env.local
 
 data/
+*.csv
