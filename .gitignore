@@ -98,3 +98,4 @@ instance/
 
 data/
 *.csv
+/data
